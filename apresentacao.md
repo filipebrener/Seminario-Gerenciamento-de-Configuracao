@@ -9,19 +9,22 @@
 
 ## Imagens dos tópicos
 ### Codelines e baselines e depois Mainline
-![img](https://user-images.githubusercontent.com/83725413/117592492-1b904e80-b10f-11eb-873c-954307b1cfeb.png)
+![codeline-baseline-mainline](https://user-images.githubusercontent.com/83725413/117709258-17b00b00-b1a7-11eb-8b9c-07497996163e.png)
 
 ### Recursos e sistemas/ferramentas
 ![image](https://user-images.githubusercontent.com/83725413/117594084-cefb4200-b113-11eb-9d43-22f719d0c138.png)
 
 ### Gerenciamento de armazenamento usando deltas
-![image](https://user-images.githubusercontent.com/83725413/117592682-e5070380-b10f-11eb-9b1e-e868f879dfa6.png)
+![Gerenciamento-de-armazenamento](https://user-images.githubusercontent.com/83725413/117709306-25659080-b1a7-11eb-94e4-be97f89024ed.png)
 
 ### Check-in e check-out a partir de um repositório de versões centralizado
-![image](https://user-images.githubusercontent.com/83725413/117593102-598e7200-b111-11eb-9aa8-320b23fdb604.png)
+#### Parte 1
+![check-in check-out_01](https://user-images.githubusercontent.com/83725413/117709370-39a98d80-b1a7-11eb-87ad-62fb5451cd10.png)
+#### Parte 2
+![check-in check-out_02](https://user-images.githubusercontent.com/83725413/117709413-44fcb900-b1a7-11eb-8a54-75008dada452.png)
 
 ### Branching e merging
-![image](https://user-images.githubusercontent.com/83725413/117592608-9a858700-b10f-11eb-99f1-18e6d859cdb9.png)
+![Ramificação-branc-e - merge](https://user-images.githubusercontent.com/83725413/117709444-4fb74e00-b1a7-11eb-8186-3cca76f02680.png)
 
 ## Possíveis tópicos de transição
 ### Construção de sistemas
