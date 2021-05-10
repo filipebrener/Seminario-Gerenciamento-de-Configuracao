@@ -23,11 +23,11 @@
 ### Branching e merging
 ![image](https://user-images.githubusercontent.com/83725413/117592608-9a858700-b10f-11eb-99f1-18e6d859cdb9.png)
 
-## Possiveis tópicos de transição
+## Possíveis tópicos de transição
 ### Construção de sistemas
 * Desenvolvimento, construção e plataformas-alvo
 * Integração continua
-* A contrução de sistemas
+* A construção de sistemas
 ## Fonte de Material
 1. [Livro Sommerville - 10° Edição](https://plataforma.bvirtual.com.br/Leitor/Publicacao/168127/pdf/0), pag 693 - 720
 1. [Video UNIVESP](https://www.youtube.com/watch?v=Rflg8-dBd_c&list=PLdA-IY45yXWqQa6lwj1HQOb8Iobwmos-B&index=2&ab_channel=UNIVESP)
