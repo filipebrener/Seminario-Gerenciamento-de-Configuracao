@@ -26,7 +26,7 @@
 
 ## Possiveis tópicos de transição
 ### Construção de sistemas
-* Desenvilvumento, construção e plataformas-alvo
+* Desenvolvimento, construção e plataformas-alvo
 * Integração continua
 * A contrução de sistemas
 ## Fonte de Material
