@@ -1,5 +1,5 @@
 # Gestão de configuração de Mudanças 
-## Gerenciamento de Versões - Filipe Brener 
+## Gerenciamento de Versões
 ### Principais tópicos 
 - [x] Codelines e baselines e depois Mainline 
 - [x] Recursos de sistemas/ferramentas
