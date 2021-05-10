@@ -1,7 +1,6 @@
-# Seminário Engenharia de Software 
-## Gestão de configuração de Mudanças 
-### Gerenciamento de Versões - Filipe Brener 
-#### Principais tópicos 
+# Gestão de configuração de Mudanças 
+## Gerenciamento de Versões - Filipe Brener 
+### Principais tópicos 
 - [x] Codelines e baselines e depois Mainline 
 - [x] Recursos de sistemas/ferramentas
 - [x] Gerenciamento de armazenamento usando deltas
